@@ -1,4 +1,6 @@
+🔗 Live Dashboard: (Will be added after deployment)
 # 🏭 Nassau Candy Product Line Profitability Dashboard
+An interactive data analytics dashboard to evaluate product profitability, margin performance, and cost efficiency for a candy distribution business.
 
 ## 📌 Project Overview
 
